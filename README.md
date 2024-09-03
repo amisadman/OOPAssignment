@@ -1,4 +1,4 @@
-# OOP Assignment Practice
+# OOP Code Practice
 
 This repository contains practice code for the Object-Oriented Programming (OOP) assignment. The code examples are based on figures from the course textbook. Each figure corresponds to a specific class or set of classes, organized into packages for easy reference.
 
@@ -6,8 +6,6 @@ This repository contains practice code for the Object-Oriented Programming (OOP)
 - [Introduction](#introduction)
 - [Figure to Code Mapping](#figure-to-code-mapping)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing
 
 ## Introduction
 This project is a collection of code examples from the textbook **Java™ How to Program, Tenth Edition,
@@ -53,6 +51,3 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/amisadman/OOPAssignment.git
-
-## Contributing
-If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
