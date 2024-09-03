@@ -46,7 +46,7 @@ Here is a list of the figures from the textbook and their corresponding code fil
 - **Fig 7.19** - [GradeBookTest.java 2](./src/main/java/GradeBook2/GradeBookTest.java)
 - **Fig 7.21** - [InitArray721.java](./src/main/java/InitArray/InitArray721.java)
 - **Fig 7.24** - [ArrayListCollection.java](./src/main/java/ArrayListCollection/ArrayListCollection.java)
-- **Fig 8.7** - [Date.java](./src/main/java/Date/Date.java)
+- **Fig 8.7** - [Date.java](./src/main/java/Employee/Date.java)
 - **Fig 8.8** - [Employee.java](./src/main/java/Employee/Employee.java)
 - **Fig 8.9** - [EmployeeTest.java](./src/main/java/Employee/EmployeeTest.java)
 
