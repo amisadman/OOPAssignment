@@ -15,10 +15,6 @@ Early Objects**, organized by figure number. Each figure demonstrates different 
 
 Here is a list of the figures from the textbook and their corresponding code files:
 
-## Figure to Code Mapping
-
-Here is a list of the figures from the textbook and their corresponding code files:
-
 - **Fig 3.8** - [Account.java](./src/main/java/Account/Account.java)
 - **Fig 3.9** - [AccountTest.java](./src/main/java/Account/AccountTest.java)
 - **Fig 4.4** - [Student.java](./src/main/java/Student/Student.java)
